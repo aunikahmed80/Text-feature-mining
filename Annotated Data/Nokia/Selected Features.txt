@@ -1,0 +1,23 @@
+phone,nokia,quality
+feature
+size
+sound,speakerphone,voice,volume,headset,earpiece,tone,headphone jack
+ringtones,ring
+radio
+backlight,screensaver,wallpaper
+battery
+service,customer rep,csr
+internet
+tmobile,plan,sprint
+weight
+button,key
+network,reception,tzone,signal,call,gsm
+interface,menu,user interface,command
+game,graphics
+software,application
+design,look,color,layout
+screen
+camera,picture
+price
+message,mms,pim
+vibration

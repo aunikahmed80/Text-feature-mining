@@ -1,0 +1,21 @@
+software,installation,explorer,folder_structure,program,setup,plug_and_play,firmware,pc_compatibility,firewire,folder
+player,creative,nomad,zen,xtra
+sound,audio,headphone,earbud,earphone,equalizer,playback_quality,signal_to_noise_ratio,enviromental_audio,playback quality
+navigation,control,scroll,scroll_wheel,scroll_ wheel,menu,option,flywheel,fly_wheel,wheel
+use
+design,look,construction,style,case,cover
+transfer,rip,sync,cd_burner,uploading,load
+battery,power,recharger
+price,affordability
+screen,display,screen_saver,interface
+storage,capacity,file_limit
+size
+eax,play_mode
+playlist,sorting
+search,id3_tag,tag
+button
+hardware,line_out_jack
+game
+manual,instruction
+warranty
+weight

@@ -1,0 +1,12 @@
+size
+sound
+ringtones
+battery
+service
+internet
+button
+software
+design
+screen
+camera
+price
